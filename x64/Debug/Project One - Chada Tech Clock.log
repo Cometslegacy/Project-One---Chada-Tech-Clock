@@ -1,0 +1,15 @@
+﻿  addOneHour.cpp
+  addOneMinute.cpp
+  addOneSecond.cpp
+  displayClocks.cpp
+  formatTime12.cpp
+  formatTime24.cpp
+  getMenuChoice.cpp
+  main.cpp
+  mainMenu.cpp
+C:\Users\David\source\repos\Project One - Chada Tech Clock\mainMenu.cpp(20,6): warning C4101: 'x': unreferenced local variable
+  nCharString.cpp
+  printMenu.cpp
+  twoDigitString.cpp
+  Generating Code...
+  Project One - Chada Tech Clock.vcxproj -> C:\Users\David\source\repos\Project One - Chada Tech Clock\x64\Debug\Project One - Chada Tech Clock.exe
